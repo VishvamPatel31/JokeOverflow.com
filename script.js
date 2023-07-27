@@ -6,7 +6,7 @@ const params = [
   "blacklistFlags=nsfw,religious,racist,political,sexist,explicit",
   "idRange=0-100",
 ];
-const API_KEY = "AIzaSyDLjS95nZl4lIf1visVBKXeIT9T9CwD4nU";
+const API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 //Languages avialable for translation
 const languages = [
