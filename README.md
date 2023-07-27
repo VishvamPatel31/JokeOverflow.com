@@ -6,11 +6,13 @@ INTRODUCTION
 
 Welcome to the Software Engineer Joke Box! This is a simple web application that fetches programming jokes from a joke API and allows you to translate them into various languages using the Google Translate API. The app is designed to provide a light-hearted and entertaining experience for software engineers and anyone interested in programming humor.
 
+Link to Project: https://64c2787ac3372106f797df0f--ephemeral-crumble-d9f156.netlify.app
+
 INSTALLATION
 
 Before running the application, ensure you have Node.js and npm installed on your system.
 
-1. Clone this repository to your local machine using the following command: git clone https://github.com/VishvamPatel31/JokeLingo.git
+1. Clone this repository to your local machine using the following command: git clone //github.com/VishvamPatel31/JokeOverflow.com.git
 
 2. Navigate to the project directory: cd software-engineer-joke-box
 
